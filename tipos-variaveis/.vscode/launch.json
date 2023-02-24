@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch GerenciadorDePacotes",
+            "request": "launch",
+            "mainClass": "GerenciadorDePacotes",
+            "projectName": "tipos-variaveis_4cc26279"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "tipos-variaveis_4cc26279"
+        },
+        {
+            "type": "java",
+            "name": "Launch TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "tipos-variaveis_4cc26279"
+        },
+        {
+            "type": "java",
+            "name": "Launch multa",
+            "request": "launch",
+            "mainClass": "multa",
+            "projectName": "tipos-variaveis_4cc26279"
+        }
+    ]
+}

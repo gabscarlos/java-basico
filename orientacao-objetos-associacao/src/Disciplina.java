@@ -1,0 +1,4 @@
+class Disciplina {
+    
+    Aluno aluno;
+}
